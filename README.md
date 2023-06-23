@@ -1,4 +1,4 @@
-# study
+# Flash card style study app
 <h2>Study App in Python</h2>
 <p>This is a simple study app written in python.</p>
 <p>It allows the user to create a database (study bank) of multiple choice questions based on their own choice of study material</p>
